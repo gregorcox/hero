@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is the ending of the story.
+=======
+This is a change A day in the life of a hero.ß Once upon a time a superhero woke up. She was tired of fixing all mess made by the humans. So she stayed at home, watched and ate ice cream
+>>>>>>> 3df1cdda436384053353772a6a5295887c4655a0
